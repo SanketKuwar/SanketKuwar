@@ -15,9 +15,8 @@ Feel free to connect with me @SanketKuwar for all things tech or just to say hel
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
+- 🛠 &nbsp; I’m currently working with Azure DataFactory, Azure Databricks, Delta Lake, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: kuwarsanket99@gmail.com.
 
 ### My Absolute Favorites:
