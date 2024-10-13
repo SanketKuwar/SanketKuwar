@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; 
 
-Enthusiastic and detail-oriented data engineering enthusiast with a strong foundation in database management, ETL processes, and data modeling. Armed with hands-on experience in Python and SQL, eager to contribute analytical skills and passion for optimizing data workflows in an entry-level data engineering role. 🚀
+Enthusiastic and detail-oriented data engineering enthusiast with a strong foundation in database management, ETL processes, and data modeling. Armed with hands-on experience in Python and SQL, eager to contribute analytical skills and passion for optimizing data workflows in a data engineering role. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Azure, AWS, Databricks, snowflake, etc. 
 
