@@ -8,7 +8,7 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-Feel free to connect with me @SanketKuwar for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Feel free to connect with me [@SanketKuwar](https://www.linkedin.com/in/sanketk99/) for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
 <img align="right" height="250" width="375" alt="" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" />
 
